@@ -1,7 +1,7 @@
-# MarunOSSTeamKafka
+## MarunOSSTeamKafka
 
 
-### Apache Kafka 
+# Apache Kafka 
 
 # Description:
 
@@ -9,7 +9,8 @@ Other things to include:
 - Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
 - Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
 
-# Screenshot:  If the software has visual components, place a screenshot after the description; e.g.,
+# Screenshot:  
+If the software has visual components, place a screenshot after the description; e.g.,
 
 ## Dependencies
 This includes programming languages, databases or other storage mechanisms, build tools, frameworks, and so forth.
